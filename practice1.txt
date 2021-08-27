@@ -1,6 +1,6 @@
 Project Title - Git Practice
 
-This is the subtitle
+This is a subtitle
 
 
 This is the first section of the project
