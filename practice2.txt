@@ -4,7 +4,7 @@ Subtitle 1
 
 Subtitle 2
 
-Subtitle 3
+This should be the title for the next section
 
 Required elements
 
